@@ -1,0 +1,5 @@
+tampa,20,100
+justin,20,100
+nike,19,47
+mike,23,99
+maple,19,77
